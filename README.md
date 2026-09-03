@@ -23,6 +23,7 @@ Fork of https://github.com/mortis2600/ai-blocklist
 - Cohere
 - Poe
 - You.com
+- Qwen Studio
 
 ### Image Generation
 - Midjourney
