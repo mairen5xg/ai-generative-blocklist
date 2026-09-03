@@ -31,6 +31,7 @@
 ||gemma4.com^
 ||gemma4.chat^
 ||gemma4-ai.com^
+||chat.z.ai^
 
 ! AI Image Generation
 
