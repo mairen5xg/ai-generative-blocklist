@@ -26,6 +26,7 @@
 ||you.com^
 ||qwen.ai^
 ||chat.qwen.ai^
+||duck.ai^
 
 ! AI Image Generation
 
