@@ -1,6 +1,6 @@
 ! Title: AI & Image Generation Blocklist
 ! Description: Blocks AI chatbots and image generation sites
-! Homepage: https://github.com/mortis2600/ai-blocklist
+! Homepage: https://github.com/mairen5xg/ai-generative-blocklist
 ! License: MIT
 ! Expires: 7 days
 ! Last modified: 03-09-2026
