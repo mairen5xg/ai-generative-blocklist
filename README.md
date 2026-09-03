@@ -24,6 +24,7 @@ Fork of https://github.com/mortis2600/ai-blocklist
 - Poe
 - You.com
 - Qwen Studio
+- DuckDuckGo AI
 
 ### Image Generation
 - Midjourney
