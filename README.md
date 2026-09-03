@@ -3,6 +3,7 @@
 A DNS blocklist for Pi-hole and AdGuard Home that blocks AI chatbots and
 image generation sites. Useful for parental controls or anyone who wants
 to restrict access to AI tools on their network.
+Fork of https://github.com/mortis2600/ai-blocklist
 
 ## What it blocks
 
