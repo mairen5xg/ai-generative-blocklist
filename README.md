@@ -25,7 +25,8 @@ Fork of https://github.com/mortis2600/ai-blocklist
 - You.com
 - Qwen Studio
 - DuckDuckGo AI
-- Gemma4 (generic chats)
+- Lumo (Proton)
+- Generic chats from Gemma4
 
 ### Image Generation
 - Midjourney
