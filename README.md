@@ -27,6 +27,7 @@ Fork of https://github.com/mortis2600/ai-blocklist
 - DuckDuckGo AI
 - Lumo (Proton)
 - Generic chats from Gemma4
+- Z.ai
 
 ### Image Generation
 - Midjourney
