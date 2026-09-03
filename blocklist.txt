@@ -27,6 +27,9 @@
 ||qwen.ai^
 ||chat.qwen.ai^
 ||duck.ai^
+||gemma4.com^
+||gemma4.chat^
+||gemma4-ai.com^
 
 ! AI Image Generation
 
