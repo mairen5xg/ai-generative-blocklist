@@ -41,6 +41,6 @@ Fork of https://github.com/mortis2600/ai-blocklist
 
 1. Go to Pi-hole Admin
 2. Click Lists
-3. Paste list URL: https://raw.githubusercontent.com/mortis2600/ai-blocklist/refs/heads/main/blocklist.txt
+3. Paste list URL: https://raw.githubusercontent.com/mairen5xg/ai-generative-blocklist/refs/heads/main/blocklist.txt
 5. Assign to your desired group
 6. Run `pihole -g` to update gravity 
