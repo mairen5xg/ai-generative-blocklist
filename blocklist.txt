@@ -22,6 +22,7 @@
 ||hailuo.ai^
 ||mistral.ai^
 ||lumo.proton.me^
+||longcat.chat^
 ||cohere.com^
 ||poe.com^
 ||you.com^
