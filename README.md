@@ -26,6 +26,7 @@ Fork of https://github.com/mortis2600/ai-blocklist
 - Qwen Studio
 - DuckDuckGo AI
 - Lumo (Proton)
+- LongCat
 - Generic chats from Gemma4
 - Z.ai
 
