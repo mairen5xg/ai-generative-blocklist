@@ -25,6 +25,7 @@
 ||poe.com^
 ||you.com^
 ||qwen.ai^
+||chat.qwen.ai^
 
 ! AI Image Generation
 
