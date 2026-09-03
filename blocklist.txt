@@ -24,7 +24,7 @@
 ||cohere.com^
 ||poe.com^
 ||you.com^
-||qwen.ai
+||qwen.ai^
 
 ! AI Image Generation
 
