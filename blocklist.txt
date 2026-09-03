@@ -21,6 +21,7 @@
 ||moonshot.cn^
 ||hailuo.ai^
 ||mistral.ai^
+||lumo.proton.me^
 ||cohere.com^
 ||poe.com^
 ||you.com^
