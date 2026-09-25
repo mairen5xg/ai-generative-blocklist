@@ -17,6 +17,7 @@ Fork of https://github.com/mortis2600/ai-blocklist
 - Grok (xAI)
 - DeepSeek
 - Meta AI
+- NoTrack AI
 - Kimi / Moonshot
 - Hailuo AI
 - Mistral AI
