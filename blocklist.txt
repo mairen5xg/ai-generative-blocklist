@@ -17,6 +17,7 @@
 ||grok.com^
 ||deepseek.com^
 ||meta.ai^
+||notrack.ai^
 ||kimi.ai^
 ||moonshot.cn^
 ||hailuo.ai^
