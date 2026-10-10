@@ -8,6 +8,7 @@ Fork of https://github.com/mortis2600/ai-blocklist
 ## What it blocks
 
 ### AI Chatbots
+- Ask Brave
 - ChatGPT / OpenAI
 - Claude (Anthropic)
 - Google Gemini
